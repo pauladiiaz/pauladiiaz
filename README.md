@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Paula</h1>
 <h3 align="center">Estudiante de Ingeniería Informática en la ULL</h3>
 
-- 🔭 Estoy trabajando en **mi carrera**
-
 - ⚡ Fun fact **Me metí a la carrera porque me gustaban los jueguitos de supersell**
 
 <p align="left">
