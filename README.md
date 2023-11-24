@@ -5,7 +5,6 @@
 
 - ⚡ Fun fact **Me metí a la carrera porque me gustaban los jueguitos de supersell**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
