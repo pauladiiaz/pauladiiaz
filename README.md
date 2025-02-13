@@ -5,7 +5,7 @@ Soy estudiante del grado de Ingeniería Informática en la Universidad de La Lag
 
 ### 🛠 Tecnologías y herramientas
 
-- **Lenguajes:** Ruby, JavaScript, Python  
+- **Lenguajes:** C++, Ruby, JavaScript, Python  
 - **Control de versiones:** Git (múltiples ramas, workflows avanzados)  
 - **Herramientas:** Bundler, RDoc, Yard  
 
