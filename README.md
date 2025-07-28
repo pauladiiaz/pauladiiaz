@@ -13,10 +13,8 @@
 
 ### 🧠 Intereses
 
-- Lenguajes de programación & transpiladores
 - Inteligencia Artificial & Machine Learning
 - Optimización combinatoria & metaheurísticas
-- DSLs, TDD, y diseño limpio
 - Ciencia de datos & visualización
 
 ---
