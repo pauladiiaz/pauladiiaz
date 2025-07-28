@@ -6,8 +6,7 @@
 <h1 align="center">Paula ✨</h1>
 
 <p align="center">
-  Estudiante de Ingeniería del Software <br>
-  Apasionada por los lenguajes, la IA y resolver problemas complejos con código.
+  Estudiante de Ingeniería Informática <br>
 </p>
 
 ---
