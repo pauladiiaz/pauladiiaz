@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" alt="Banner" width="100%" height="50%">
-  
-</p>
-
-<h1 align="center">Paula ✨</h1>
+<h1 align="center">Paula Díaz</h1>
 
 <p align="center">
   Estudiante de Ingeniería Informática <br>
@@ -61,11 +56,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauladiiaz&theme=rose_pine&hide_border=true" width="60%" />
-</p>
-
-<p align="center">
-  <i>Keep it simple. Keep it meaningful.</i><br>
-  <a href="https://github.com/paudiiaz">github.com/pauladiiaz</a>
 </p>
 
 <p align="center">
