@@ -32,6 +32,10 @@
 ### 📫 Contacto
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/paula-díaz-jorge-a93200376/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="https://github.com/pauladiiaz" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
   </a>
@@ -44,11 +48,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pauladiiaz&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paudiiaz&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauladiiaz&theme=rose_pine&hide_border=true" width="60%" />
