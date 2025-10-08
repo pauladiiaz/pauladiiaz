@@ -47,12 +47,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauladiiaz&theme=rose_pine&hide_border=true" width="60%" />
-</p>
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=pauladiiaz&layout=compact&theme=vue)
+![GitHub Streak](https://streak-stats.demolab.com?user=pauladiiaz&theme=vue)
+![Trophies](https://github-profile-trophy.vercel.app/?username=pauladiiaz&theme=vue)
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/e1/45/77/e14577691f4862de39cfa31b3c6d1b35.jpg">
-</p>
