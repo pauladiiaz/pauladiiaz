@@ -45,11 +45,3 @@
   </a>
 </p>
 
----
-
-### 📊 Estadísticas de GitHub
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=pauladiiaz&layout=compact&theme=vue)
-![GitHub Streak](https://streak-stats.demolab.com?user=pauladiiaz&theme=vue)
-![Trophies](https://github-profile-trophy.vercel.app/?username=pauladiiaz&theme=vue)
-
