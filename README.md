@@ -16,7 +16,7 @@
 
 ### 🛠️ Tecnologías
 
-- Lenguajes:   C++ · C · Python · Ruby · JavaScript · TypeScript · SQL · Prolog · R
+- Lenguajes:   C++ · C · C# · Python · Ruby · JavaScript · TypeScript · SQL · Prolog · R
 - Programación Web: HTML · CSS · Node.js
 - Herramientas: Visual Studio Code · Git
 
